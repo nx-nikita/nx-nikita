@@ -1,3 +1,12 @@
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+  <img alt="GitHub Stats" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+</picture>
+
+
 <h1 align="center">Hi,I'm Nikita</h1>
 <h3 align="center">Frontend Developer With Fierce Passion</h3>
 
@@ -31,3 +40,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nx-nikita&show_icons=true&locale=en" alt="nx-nikita" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nx-nikita&" alt="nx-nikita" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <img alt="paceman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+    </picture>
+
