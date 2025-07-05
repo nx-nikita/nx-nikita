@@ -11,18 +11,14 @@
 <h3 align="center">Frontend Developer With Fierce Passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nx-nikita&label=Profile%20views&color=0e75b6&style=flat" alt="nx-nikita" /> </p>
+<h4 align="center">I'm Nikita — a frontend developer driven by a deep passion for crafting seamless, user-centered digital experiences. My work lives at the intersection of design and technology, where I bring interfaces to life using HTML, CSS, JavaScript, and frameworks like Bootstrap.I also rely on tools like Figma and Canva to shape visual narratives that are not only aesthetically pleasing but also intuitive and accessible.<br>With a strong foundation in web standards and a keen eye for detail, I focus on building responsive layouts, clean codebases, and engaging interactions that elevate the user experience. Whether it's translating a static design into a dynamic interface or fine-tuning the smallest hover effect, I believe that thoughtful frontend development can turn ordinary websites into memorable experiences.</h4>
+  <h5>🌱 Exploring new design systems and animation techniques</h5>
+<h5>🧩 HTML, CSS, and JavaScript for structure, style, and interactivity</h5>
+<h5>🖌️ Figma and Canva for designing beautiful interfaces and assets</h5> 
+<h5> 🎨 Bootstrap for fast, responsive layouts</h5> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nx-nikita" alt="nx-nikita" /></a> </p>
+<h5>🔭 I’m currently working on [portfolio Website](https://github.com/nx-nikita/myportfolio.io)</h5>
 
-- 🔭 I’m currently working on [portfolio Website](https://github.com/nx-nikita/myportfolio.io)
-
-- 🌱 I’m currently learning **vue.js, react, bootstrap**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nx-nikita](https://github.com/nx-nikita)
-
-- 💬 Ask me about **react**
-
-- 📫 Ping me Here **pundirnikita260@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
